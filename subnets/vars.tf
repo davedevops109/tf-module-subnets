@@ -5,5 +5,3 @@ variable "env" {}
 variable "default_vpc_id" {}
 variable "name" {}
 variable "vpc_peering_connection_id" {}
-variable "internet_gw" {}
-variable "nat_gw" {}
